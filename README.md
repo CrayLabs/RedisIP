@@ -2,9 +2,9 @@
 # RedisIP
 
 RedisIP is a very simple Redis module with no registered commands. The only functionality introduced by the module
-is that is logs the IP address and hostname of the Redis instance to the redis log. 
+is that it logs the IP address and hostname of the Redis instance to the Redis log. 
 
-Note: This relies on the fact that the machine where a redis instances is started has entries for the hostname and related IP address in ``/etc/hosts``
+Note: This relies on the fact that the machine where a Redis instances is started has entries for the hostname and related IP address in ``/etc/hosts``
 
 ## installation
 
